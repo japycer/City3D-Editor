@@ -1,0 +1,33 @@
+.toolbar-container {
+    z-index: 999;
+    position: absolute;
+    text-align: left;
+    padding: 0 25px 0 10px;
+    left: 5px;
+    right: 205px;
+    bottom: 30px;
+    border-radius: 15px;
+    overflow: hidden;
+    background-color: #ddd;
+    box-shadow: 3px 3px 7px 1px #11111136;
+    transition: all 0.2s;
+    transform: translateX(calc(-100% + 20px));
+}
+
+.toolbar-container:hover {
+    transform: translateX(0px);
+}
+
+.toolbar-container:focus-within {
+    transform: translateX(0px);
+}
+
+#scene {
+    width: 100%;
+    height: 100vh;
+    width: calc(100% - 200px);
+    height: calc(100vh - 110px);
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}

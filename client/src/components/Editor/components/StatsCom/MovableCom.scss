@@ -1,0 +1,23 @@
+.move-wrap {
+  min-width: 100px;
+  min-height: 30px;
+  position: absolute;
+  left: calc(50vw - 50%);
+  top: calc(50vh - 50%);
+  background: #fff7;
+
+  .move-head {
+    background: gray;
+    color: white;
+    font-size: large;
+
+    span {
+      float: right;
+      padding: 4px;
+    }
+  }
+
+  .move-content {
+    background: #fffa;
+  }
+}
