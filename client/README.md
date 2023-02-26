@@ -1,7 +1,3 @@
----
-typora-copy-images-to: doc-imgs
----
-
 # Web 3D Edtior Client
 
 Client side of Web 3D Editor
