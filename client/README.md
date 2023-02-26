@@ -1,3 +1,7 @@
+---
+typora-copy-images-to: doc-imgs
+---
+
 # Web 3D Edtior Client
 
 Client side of Web 3D Editor
@@ -17,3 +21,7 @@ You will also see any lint errors in the console.
 ### `yarn build`
 
 Builds the app for production to the `build` folder.
+
+### Demo
+
+![image-20230226203834706](.\doc-imgs\image-20230226203834706.png)
