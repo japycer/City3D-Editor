@@ -20,4 +20,4 @@ Builds the app for production to the `build` folder.
 
 ### Demo
 
-![image-20230226203834706](.\doc-imgs\image-20230226203834706.png)
+![image-20230226203834706](./doc-imgs/image-20230226203834706.png)
